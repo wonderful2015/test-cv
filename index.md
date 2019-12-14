@@ -80,6 +80,10 @@ Supported arguments:
 
 ## 工作经验
 -------
+<span>2016.02—现在 </span>           <span class="company"> XX部第 X 研究所</span>   <span class="job">数据研发工程师</span>  
+<span>2014.07—2015.08 </span>      <span class="company">中科院电子所苏州研究院</span>  <span class="job">大数据研发工程师</span>  
+<span>2012.09—2013.06</span>        <span class="company">北京航空航天大学</span>   <span class="job">移动云计算专业</span>  
+<span>2009.06—2011.07</span>     <span class="company">富士康科技集团cnsbg事业群</span>   <span class="job">制程/机构工程师</span>
 
 |                |                                 |                |
 |:---------------|:--------------------------------|:----------|

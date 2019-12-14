@@ -244,6 +244,17 @@ hr {
   /*visibility: hidden;*/
   height: 0mm;
 }
-table{
-  width:100%;
+
+
+
+.company {
+  display:block;
+  float: left;
+  margin-right: 150px;
+}
+
+.job {
+  display:block;
+  float: left;
+  margin-right: 150px;
 }
