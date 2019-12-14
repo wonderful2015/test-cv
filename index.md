@@ -12,7 +12,7 @@ phone:
   text: 155-0219-0927
 ---
 
-# 李白 **好看9**
+# 李白 **好看91**
 
 <!--
 include contact information from the front matter
@@ -29,10 +29,10 @@ Supported arguments:
 
 ## 教育背景
 -------
- `2013.9— 2016.4`   **中国科学技术大学**      软件工程                   `硕士学位` <br>
+ `2013.9— 2016.4`   **中国科学技术大学**      软件工程                   硕士学位 <br>
 
 
- `2005.9—2009.7`     **湘潭大学**             机械设计制造及其自动化     `学士学位` <br>
+ `2005.9—2009.7`     **湘潭大学**            机械设计制造及其自动化     学士学位 <br>
 
 ```
 Pittsburgh, PA
@@ -95,10 +95,10 @@ Pittsburgh, PA
 **外语水平**: 英语 CET6，考研英语 70 分，具备日常沟通和阅读专业文献能力 <br>
 **个人评价**: 热爱技术，善于思考，学习能力强，沟通能力强，富有团队精神 <br>
         读研时担任班长，个人获省级优秀毕业生、校级优秀学生干部等 <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+- Teaching Assistant, **Programming Languages and Translators (COMS 4115)**  <br>
+- Teaching Assistant, **Introduction to Java II (COMP 132)**  <br>
+- Peer Tutor, **Data Structures and Problem Solving (COMP 232)**  <br>
+- Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 <!-- ### Footer
 
