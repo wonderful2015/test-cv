@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# zhong文名 **好看**
+# 中文名 **好看**
 
 <!--
 include contact information from the front matter
@@ -20,8 +20,10 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+## 目标工作
 
-## Education
+
+## 教育背景
 
 ### **Carnegie Mellon美丽的大学 University** `2018.9 -`
 
@@ -50,7 +52,7 @@ Carlisle, PA
 - B.S. in Computer Science, _Summa Cum Laude_
 - Computer Science Departmental Honors
 
-## Publications
+## 编程技能
 
 ### **How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**
 
@@ -86,7 +88,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ----
 
-## Experience
+## 项目经验
 
 ### **Carnegie Mellon University, Research碍事法师是的方法都是啥的 Experiences for Undergraduate** `2017.5 - 2017.8`
 
@@ -103,13 +105,13 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-## Advising
+## 工作经验
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
-## Teaching
+## 素质技能
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
