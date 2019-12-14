@@ -108,10 +108,10 @@ Worked on server-side web applications and server deployment tools.
 ## 工作经验
 
 
-2016.02—现在     XX 部第 X 研究所 数据研发工程师 
-2014.07—2015.08    中科院电子所苏州研究院 大数据研发工程师 
-2012.09—2013.06     北京航空航天大学 移动云计算专业 
-2009.06—2011.07     富士康科技集团 cnsbg事业群 制程/机构工程师
+2016.02—现在        XX 部第 X 研究所 `数据研发工程师` <br>
+2014.07—2015.08    中科院电子所苏州研究院 `大数据研发工程师` <br>
+2012.09—2013.06     北京航空航天大学 `移动云计算专业` <br>
+2009.06—2011.07     富士康科技集团 cnsbg事业群 `制程/机构工程师` <br>
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
