@@ -107,32 +107,24 @@ Worked on server-side web applications and server deployment tools.
 
 ## 工作经验
 
+
+2016.02—现在     XX 部第 X 研究所 数据研发工程师 
+2014.07—2015.08    中科院电子所苏州研究院 大数据研发工程师 
+2012.09—2013.06     北京航空航天大学 移动云计算专业 
+2009.06—2011.07     富士康科技集团 cnsbg事业群 制程/机构工程师
+
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ## 素质技能
-
+**外语水平**: 英语 CET6，考研英语 70 分，具备日常沟通和阅读专业文献能力 <br>
+**个人评价**: 热爱技术，善于思考，学习能力强，沟通能力强，富有团队精神 <br>
+        读研时担任班长，个人获省级优秀毕业生、校级优秀学生干部等 <br>
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta 沙发沙发的Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Service
-
-Research Experiences for Undergraduates in Software Engineering (REUSE) Admission Committee `CMU, 2019`
 
 <!-- ### Footer
 
