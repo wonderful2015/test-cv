@@ -205,7 +205,7 @@ h3 {
 code {
   font-family: "Palatino";
   font-style: italic;
-  float: right;
+  float: left;
 }
 
 li:before {
@@ -241,6 +241,6 @@ a {
 }
 
 hr {
-  visibility: hidden;
+  /*visibility: hidden;*/
   height: 0mm;
 }
