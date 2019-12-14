@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# zhong文名 **好看**
 
 <!--
 include contact information from the front matter
@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Carnegie Mellon美丽的大学 University** `2018.9 -`
 
 ```
 Pittsburgh, PA
@@ -32,7 +32,7 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Columbia 防守打法是University** `2016.9 - 2018.5`
 
 ```
 New York, NY
@@ -41,7 +41,7 @@ New York, NY
 - B.S. in Computer Science, _Magna Cum Laude_
 - Vision, Graphics track
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **Dickinson发撒撒发 College** `2013.9 - 2016.5`
 
 ```
 Carlisle, PA
@@ -88,7 +88,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Carnegie Mellon University, Research碍事法师是的方法都是啥的 Experiences for Undergraduate** `2017.5 - 2017.8`
 
 _Research Assistant_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
@@ -121,7 +121,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
 Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
+Tau Beta 沙发沙发的Pi, Engineering Honor Society `Columbia, 2017` <br>
 Computer Science Departmental Honors `Dickinson, 2016` <br>
 Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
